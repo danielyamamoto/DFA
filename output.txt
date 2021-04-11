@@ -1,0 +1,79 @@
+Lexema                        Token                         
+abc1234                       Variable                      
+=                             Asignacion                    
+1234                          Entero                        
+                              Blanco                        
+//abc1234                     Comentario                    
+
+
+                            Blanco                        
+123.456                       Real                          
+
+
+                            Blanco                        
+1234e-12                      Numero con notacion cientifica
+                              Blanco                        
+//abc                         Comentario                    
+
+
+                            Blanco                        
+12                            Entero                        
+-                             Resta                         
+10E4                          Numero con notacion cientifica
+ 
+
+                           Blanco                        
+abc                           Variable                      
+=                             Asignacion                    
+(                             Parentesis que abre           
+1                             Entero                        
++                             Suma                          
+2                             Entero                        
+)                             Parentesis que cierra         
+/                             Division                      
+1                             Entero                        
+^                             Potencia                      
+2                             Entero                        
+
+
+                            Blanco                        
+b                             Variable                      
+=                             Asignacion                    
+7                             Entero                        
+
+
+                            Blanco                        
+a                             Variable                      
+                              Blanco                        
+=                             Asignacion                    
+                              Blanco                        
+32.4                          Real                          
+                              Blanco                        
+*                             Multiplicacion                
+(                             Parentesis que abre           
+-                             Resta                         
+8.6                           Real                          
+                              Blanco                        
+-                             Resta                         
+                              Blanco                        
+b                             Variable                      
+)                             Parentesis que cierra         
+/                             Division                      
+                              Blanco                        
+6.1E-8                        Numero con notacion cientifica
+
+
+                            Blanco                        
+d                             Variable                      
+                              Blanco                        
+=                             Asignacion                    
+                              Blanco                        
+a                             Variable                      
+                              Blanco                        
+^                             Potencia                      
+                              Blanco                        
+b                             Variable                      
+                              Blanco                        
+//abc123 =()                  Comentario                    
+
+                             Blanco                        
